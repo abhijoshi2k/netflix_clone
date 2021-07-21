@@ -25,7 +25,9 @@
 			{
 				"endOfLine": "auto"
 			}
-		]
+		],
+		"no-unused-vars": "warn",
+		"no-empty": "warn"
 	},
 	"settings": { "react": { "version": "detect" } }
 }

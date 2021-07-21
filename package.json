@@ -1,22 +1,22 @@
 {
-	"name": "webilizer-frontend",
+	"name": "netflix_clone",
 	"version": "1.0.0",
-	"description": "React frontend for webilizer",
+	"description": "Netflix Clone",
 	"main": "index.js",
 	"scripts": {
-		"serve": "start http://localhost:3000 && webpack serve --mode development",
+		"start": "start http://localhost:3000 && webpack serve --mode development",
 		"build": "webpack --mode production"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/abhijoshi2k/webilizer-frontend.git"
+		"url": "git+https://github.com/abhijoshi2k/netflix_clone.git"
 	},
-	"author": "Abhishek Joshi, Vishak Kodethur, Vineet Iyer",
+	"author": "Abhishek Joshi",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/abhijoshi2k/webilizer-frontend/issues"
+		"url": "https://github.com/abhijoshi2k/netflix_clone/issues"
 	},
-	"homepage": "https://github.com/abhijoshi2k/webilizer-frontend#readme",
+	"homepage": "https://github.com/abhijoshi2k/netflix_clone#readme",
 	"dependencies": {
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2"
